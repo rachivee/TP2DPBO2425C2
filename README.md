@@ -9,7 +9,7 @@ Pada TP DPBO ke-2 ini, saya mengembangkan class Sumisang yang sebelumnya telah d
 Terdapat tiga Class yang dibuat dengan masing-masing Class memiliki 3 atribut.
 1. Class pertama adalah Sumisang sebagai Base Class yang mempunyai atribut code (menyimpan kode produk), name (menyimpan nama produk), dan price (menyimpan harga produk dalam bentuk int). Class ini memiliki konstruktor, setter, dan getter untuk setiap atributnya.
 2. Class kedua adalah Handphone yang merupakan anak dari Class Sumisang sebagai intermediary class. Class ini mempunyai atribut, yaitu, androidVer (menyimpan versi android handphone tersebut), uiVer(menyimpan versi ui dari handphone), dan processor (menyimpan processor yang digunakan). Seperti Class sebelumnya, class ini juga memiliki konstruktor, setter, dan getter.
-3. Class terakhit adalah GalaxySeries yang merupakan anak dari Class Handphone atau cucu dari Class Sumisang sebagai derived class. Class ini merupakan bagian lebih spesifik dari Handphone, dengan tiga atribut yaitu imei, model, dan category.
+3. Class terakhir adalah GalaxySeries yang merupakan anak dari Class Handphone atau cucu dari Class Sumisang sebagai derived class. Class ini merupakan bagian lebih spesifik dari Handphone, dengan tiga atribut yaitu imei, model, dan category.
 
 Dalam program yang dibuat, terdapat fitur untuk menambahkan data dengan memasukkan input 'y' atau 'Y', sedangkan saat input bukan 'y' atau 'Y' maka program akan menampilkan list data dengan tabel sebelum program selesai. 
 
