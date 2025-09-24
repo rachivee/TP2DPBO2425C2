@@ -26,6 +26,9 @@ Java
 Python
 <img width="1920" height="1080" alt="Screenshot (700)" src="https://github.com/user-attachments/assets/f9ceb413-5bb0-47fa-b018-4234fcc08d81" />
 
+PHP
+<img width="1920" height="1080" alt="Screenshot (701)" src="https://github.com/user-attachments/assets/bba4c6dc-fe57-4d61-880e-558f190b567b" />
+
 Jika dengan data asal, untuk memperlihatkan tabel dinamis
 
 C++
