@@ -1,0 +1,21 @@
+y
+G006
+Galaxy S21 Ultra
+18000000
+Android 12
+One UI 4.0
+Exynos 2100
+IMEI006
+SM-G998
+Flagship
+y
+G007
+Galaxy A52
+5000000
+Android 11
+One UI 3
+Snapdragon 720G
+IMEI007
+SM-A525
+Mid
+n
